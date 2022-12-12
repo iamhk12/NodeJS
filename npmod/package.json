@@ -1,0 +1,15 @@
+{
+  "name": "npmod",
+  "version": "1.0.0",
+  "description": "This is HK, learning npm modules of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HK",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.7.0"
+  }
+}
